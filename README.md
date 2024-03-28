@@ -1,4 +1,8 @@
-## Overview 
+# Minimal Blog Card
+
+### [Demo](https://younessbennaj.github.io/minimal-blog-card/) | [Solution](https://devchallenges.io/solution/8871) | [Challenge](https://devchallenges.io/challenge/minimal-blog-card)
+
+## Overview
 
 ### Desktop
 
@@ -16,4 +20,3 @@
 ## Features
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/) challenge. The [challenge](https://devchallenges.io/challenge/minimal-blog-card) was to build an application to complete the given user stories.
-
